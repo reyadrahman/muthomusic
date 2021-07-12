@@ -1,0 +1,25 @@
+import dependencies.Dependencies
+
+apply plugin: Dependencies.BuildPlugins.gradleVersions
+
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath Dependencies.Plugins.android
+        classpath Dependencies.Plugins.gradleVersions
+        classpath Dependencies.Plugins.playServices
+        classpath Dependencies.Plugins.kotlin
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://jitpack.io" }
+    }
+}
