@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653482407143",
+    "project_id": "mutho-music",
+    "storage_bucket": "mutho-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653482407143:android:04a8869ce4d5601d819e42",
+        "android_client_info": {
+          "package_name": "com.mutho.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653482407143-7bntt57f5pm7bg0nd9qdqdka0kdmjga2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutho.music",
+            "certificate_hash": "b8457dc8154d95d24dd10113f43173b1560f83cb"
+          }
+        },
+        {
+          "client_id": "653482407143-i4c4cpb3k8ljdv9cktkr0igfov5mh5c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfu-EFNTIa85klT5bwYD8XVflmfgFdZH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653482407143-i4c4cpb3k8ljdv9cktkr0igfov5mh5c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
