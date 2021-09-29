@@ -1,1 +1,928 @@
-
+-- Merging decision tree log ---
+action#com.mutho.music.PLAYBACK_VIEWER
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:124:17-74
+	android:name
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+provider#com.mutho.music.sql.providers.CustomArtworkContentProvider
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:302:9-305:39
+	android:authorities
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+provider#com.mutho.music.sql.providers.PlayCountContentProvider
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:307:9-310:39
+	android:authorities
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:312:9-320:20
+	android:authorities
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+MERGED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+MERGED from [:libraries:aesthetic] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/aesthetic/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5aca024813b212a0202ac02443058223/cardview-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:libraries:multisheetview] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/multisheetview/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1027d60ee47923344d541db2a0283d58/design-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:libraries:glidepalette] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/glidepalette/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:libraries:ccl] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/ccl/build/intermediates/library_manifest/release/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d65fd93d6b3a1ddab84520f765f778b9/play-services-cast-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/720756e7a108a88fe74ba717b2f947d2/mediarouter-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ef054b3264a081e0483e18dbf65c67a5/palette-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/b7de8defc5cec3927a604c8e42c15606/preference-v14-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cd2b550ed35b859413c955dd1243c84b/preference-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:libraries:recycler-adapter] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/recycler-adapter/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/bd38700adaefd690810ba27be149d8ce/commons-0.9.6.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c53331642b0210ef47c8ab3adcb57323/core-0.9.6.0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.bignerdranch.android:expandablerecyclerview:3.0.0-RC1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5a455023fd351de60655e4d6ad6017aa/expandablerecyclerview-3.0.0-RC1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/24f446faa97bf64361b7d18edd943f64/recyclerview-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-config:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e1318bdf163463fed43f80575aefd77d/firebase-config-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/55ef189068cd25b8cfddd0538cb5f663/firebase-core-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fe7358a15d8484badb94287e6c44d439/play-services-phenotype-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/df887710a0fa9cc27a506b6e3c8c099c/play-services-flags-15.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-abt:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f1c59e31d97b1397ce403226fdf8f53e/firebase-abt-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d2f6db1f29f3c73a05749439c46cc7af/firebase-iid-interop-16.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/505b999d05cbb7e791a4fd035677a341/play-services-tasks-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d11c92e8f076fd5f8e90799c684cb31b/play-services-stats-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1e6da9dc8f41313fb3a64872c0ce6d94/firebase-measurement-connector-16.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cf490c641692d3ebf2ddf165479a903e/play-services-ads-identifier-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/00cd3af363d27088871de18232d471fb/support-v4-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ac6e355f5501c4e5eccd63a1738e4e42/constraint-layout-1.1.0-beta5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.sqlbrite2:sqlbrite:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5c63eb4ebc05332c1e2834930f6d2c50/sqlbrite-2.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [:libraries:navigation] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/navigation/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/8ca05b3be3cb4ffec05d56473062ab36/rxbinding-appcompat-v7-2.1.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/daa411081ae22b5ad585505b08b1dad4/rxbinding-2.1.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:2:1-20:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f1dfb2f687837525b1eb6d2b2fad9a96/rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [com.cantrowitz:rxbroadcast:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c617e536e64ce8572beeafb788d50c5f/rxbroadcast-2.0.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.f2prateek.rx.preferences2:rx-preferences:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a0dbe5f93aeac0b5d7bc0463fb40def8/rx-preferences-2.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.20] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/3357890087498c243f4d9fb802e05b05/recyclerview-fastscroll-1.0.20/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.greysonparrelli.permiso:permiso:0.3.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/56628a6d8756a89b340bd70d87638a9f/permiso-0.3.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2a18361be693bbda08f36a452a526865/butterknife-8.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:2:1-19:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c8e9fcbfab9fbacad56ee552226d7b08/leakcanary-android-no-op-1.5.4/AndroidManifest.xml:17:1-22:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/152e132a7387778581fefe567300e6a5/library-1.4.2/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e73447fc3a7a9b5dd072ca9e2503d3df/appcompat-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a1543bf62df71cc19cc3c0837f0ec746/transition-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/88edbeaed9081bc84f776e195fa2d228/support-fragment-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/3fec335596563ffe11d82c20f78799be/animated-vector-drawable-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/9800cc77e04d7c71dfdc746973a1ed7a/support-core-ui-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e9c572a462d64e1761396311b7e399f3/support-core-utils-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5240c19f34ea8d99587db5560ca8d50e/support-media-compat-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/afff1e7434f9c841800a31c917b3a342/support-vector-drawable-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/57e01bf0462a809e78ea23188f314d02/support-compat-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fb9664835f57a6dcdf3a23d1b86a12d2/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/015d2d0b352b77dd34b90ef644264b23/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f8046654e009879174d6a6bcf29460a5/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ace82595bb551edc9fec37b31468cb2a/play-services-measurement-base-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c30accf7eb25969cdf6f2e4808743353/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:1-335:12
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:10:5-75
+MERGED from [:libraries:ccl] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/ccl/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-76
+MERGED from [:libraries:ccl] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/ccl/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:13:22-74
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:18:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:20:5-80
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:11:5-81
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:20:22-78
+application
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:23:5-334:19
+MERGED from [:libraries:aesthetic] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/aesthetic/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:libraries:aesthetic] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/aesthetic/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:libraries:multisheetview] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/multisheetview/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:libraries:multisheetview] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/multisheetview/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d65fd93d6b3a1ddab84520f765f778b9/play-services-cast-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d65fd93d6b3a1ddab84520f765f778b9/play-services-cast-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [:libraries:recycler-adapter] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/recycler-adapter/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:libraries:recycler-adapter] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/recycler-adapter/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/bd38700adaefd690810ba27be149d8ce/commons-0.9.6.0/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/bd38700adaefd690810ba27be149d8ce/commons-0.9.6.0/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c53331642b0210ef47c8ab3adcb57323/core-0.9.6.0/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c53331642b0210ef47c8ab3adcb57323/core-0.9.6.0/AndroidManifest.xml:13:5-20
+MERGED from [com.google.firebase:firebase-config:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e1318bdf163463fed43f80575aefd77d/firebase-config-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e1318bdf163463fed43f80575aefd77d/firebase-config-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/55ef189068cd25b8cfddd0538cb5f663/firebase-core-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/55ef189068cd25b8cfddd0538cb5f663/firebase-core-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fe7358a15d8484badb94287e6c44d439/play-services-phenotype-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fe7358a15d8484badb94287e6c44d439/play-services-phenotype-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d2f6db1f29f3c73a05749439c46cc7af/firebase-iid-interop-16.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d2f6db1f29f3c73a05749439c46cc7af/firebase-iid-interop-16.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/505b999d05cbb7e791a4fd035677a341/play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/505b999d05cbb7e791a4fd035677a341/play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d11c92e8f076fd5f8e90799c684cb31b/play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d11c92e8f076fd5f8e90799c684cb31b/play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1e6da9dc8f41313fb3a64872c0ce6d94/firebase-measurement-connector-16.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1e6da9dc8f41313fb3a64872c0ce6d94/firebase-measurement-connector-16.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cf490c641692d3ebf2ddf165479a903e/play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cf490c641692d3ebf2ddf165479a903e/play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ac6e355f5501c4e5eccd63a1738e4e42/constraint-layout-1.1.0-beta5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ac6e355f5501c4e5eccd63a1738e4e42/constraint-layout-1.1.0-beta5/AndroidManifest.xml:9:5-20
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:13:5-18:19
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:13:5-18:19
+MERGED from [com.f2prateek.rx.preferences2:rx-preferences:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a0dbe5f93aeac0b5d7bc0463fb40def8/rx-preferences-2.0.0/AndroidManifest.xml:8:5-20
+MERGED from [com.f2prateek.rx.preferences2:rx-preferences:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a0dbe5f93aeac0b5d7bc0463fb40def8/rx-preferences-2.0.0/AndroidManifest.xml:8:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.greysonparrelli.permiso:permiso:0.3.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/56628a6d8756a89b340bd70d87638a9f/permiso-0.3.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.greysonparrelli.permiso:permiso:0.3.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/56628a6d8756a89b340bd70d87638a9f/permiso-0.3.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ace82595bb551edc9fec37b31468cb2a/play-services-measurement-base-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ace82595bb551edc9fec37b31468cb2a/play-services-measurement-base-16.0.0/AndroidManifest.xml:22:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:33:9-52
+	android:supportsRtl
+		ADDED from [:libraries:multisheetview] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/multisheetview/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:29:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:27:9-43
+	android:roundIcon
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:31:9-54
+	android:allowTaskReparenting
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:26:9-44
+	android:largeHeap
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:30:9-33
+	android:icon
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:24:9-46
+meta-data#android.max_aspect
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:35:9-37:34
+	android:value
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:37:13-32
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:36:13-46
+meta-data#com.mutho.music.glide.utils.CustomGlideModule
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:39:9-41:42
+	android:value
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:41:13-40
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:40:13-73
+activity#com.google.android.libraries.cast.companionlibrary.cast.player.VideoCastControllerActivity
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:43:9-126
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:43:19-124
+meta-data#com.google.android.gms.version
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:45:9-47:68
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:46:13-58
+meta-data#android.app.default_searchable
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:48:9-50:61
+	android:value
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:50:13-59
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:49:13-58
+activity#com.mutho.music.ui.activities.MainActivity
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:52:9-133:20
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:55:13-45
+	android:launchMode
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:56:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:57:13-52
+	android:exported
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:53:13-55
+intent-filter#action:name:android.intent.action.MEDIA_SEARCH+action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:59:13-64:29
+action#android.intent.action.SEARCH
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:60:17-70
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:60:25-68
+action#android.intent.action.MEDIA_SEARCH
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:61:17-76
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:61:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:63:17-75
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:63:27-73
+meta-data#android.app.searchable
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:66:13-68:53
+	android:resource
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:68:17-51
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:67:17-54
+meta-data#android.app.shortcuts
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:70:13-72:52
+	android:resource
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:72:17-50
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:71:17-53
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.MUSIC_PLAYER+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:74:13-81:29
+action#android.intent.action.MAIN
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:75:17-68
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:75:25-66
+action#android.intent.action.MUSIC_PLAYER
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:76:25-74
+category#android.intent.category.LAUNCHER
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:78:17-76
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:78:27-74
+category#android.intent.category.APP_MUSIC
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:79:27-75
+intent-filter#action:name:com.mutho.music.update+action:name:com.mutho.music.updateplaybutton
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:83:13-86:29
+action#com.mutho.music.update
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:84:17-64
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:84:25-62
+action#com.mutho.music.updateplaybutton
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:85:17-74
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:85:25-72
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:88:13-97:29
+action#android.intent.action.VIEW
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:89:17-68
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:89:25-66
+data
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:92:17-49
+	android:scheme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:92:23-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:99:13-108:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:110:13-121:29
+category#android.intent.category.BROWSABLE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:114:17-77
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:114:27-75
+intent-filter#action:name:com.mutho.music.PLAYBACK_VIEWER+category:name:android.intent.category.DEFAULT
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:123:13-126:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:128:13-132:29
+activity#com.mutho.music.search.VoiceSearchActivity
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:134:9-143:20
+	android:excludeFromRecents
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:136:13-46
+	android:exported
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:137:13-36
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:138:13-52
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:135:13-55
+intent-filter#action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:139:13-142:29
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:140:17-85
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:140:25-83
+activity#com.mutho.music.ui.activities.ShortcutTrampolineActivity
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:145:9-153:20
+	android:excludeFromRecents
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:147:13-46
+	android:exported
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:148:13-36
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:149:13-52
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:146:13-69
+intent-filter#action:name:com.mutho.music.shortcuts.SHUFFLE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:150:13-152:29
+action#com.mutho.music.shortcuts.SHUFFLE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:151:17-75
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:151:25-73
+service#com.mutho.music.playback.MusicService
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:155:9-163:19
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:158:13-45
+	android:exported
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:157:13-36
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:156:13-50
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:159:13-161:29
+action#android.media.browse.MediaBrowserService
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:160:17-82
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:160:25-80
+service#com.mutho.music.services.DashClockService
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:164:9-179:19
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:167:13-45
+	android:permission
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:168:13-98
+	android:icon
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:166:13-57
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:165:13-54
+intent-filter#action:name:com.google.android.apps.dashclock.Extension
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:169:13-171:29
+action#com.google.android.apps.dashclock.Extension
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:170:17-85
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:170:25-83
+meta-data#protocolVersion
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:173:13-175:36
+	android:value
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:175:17-34
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:174:17-47
+meta-data#description
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:176:13-178:64
+	android:value
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:178:17-62
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:177:17-43
+service#com.mutho.music.services.ArtworkDownloadService
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:181:9-183:55
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:183:13-53
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:182:13-60
+receiver#com.mutho.music.utils.MediaButtonIntentReceiver
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:185:9-195:20
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:185:19-81
+intent-filter#action:name:android.intent.action.HEADSET_PLUG+action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:186:13-194:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:187:17-189:45
+	android:priority
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:189:21-43
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:188:21-70
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:190:17-76
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:190:25-74
+action#android.intent.action.HEADSET_PLUG
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:191:17-193:45
+	android:priority
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:193:21-43
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:192:21-70
+activity#com.mutho.music.ui.appwidget.WidgetConfigureMedium
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:198:9-204:20
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:200:13-50
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:199:13-63
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:201:13-203:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:202:17-86
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:202:25-84
+activity#com.mutho.music.ui.appwidget.WidgetConfigureExtraLarge
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:207:9-213:20
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:209:13-50
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:208:13-67
+receiver#com.mutho.music.ui.widgets.WidgetProviderMedium
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:216:9-226:20
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:218:13-40
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:217:13-60
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:219:13-221:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:220:17-83
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:220:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:223:13-225:65
+	android:resource
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:225:17-63
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:224:17-58
+activity#com.mutho.music.ui.appwidget.WidgetConfigureSmall
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:229:9-235:20
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:231:13-50
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:230:13-62
+receiver#com.mutho.music.ui.widgets.WidgetProviderSmall
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:238:9-248:20
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:240:13-40
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:239:13-59
+activity#com.mutho.music.ui.appwidget.WidgetConfigureLarge
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:251:9-257:20
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:253:13-50
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:252:13-62
+activity#com.mutho.music.ui.activities.QCircleActivity
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:259:9-274:20
+	android:screenOrientation
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:265:13-49
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:264:13-45
+	android:excludeFromRecents
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:262:13-46
+	android:configChanges
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:261:13-74
+	android:icon
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:263:13-47
+	android:theme
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:266:13-74
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:260:13-58
+intent-filter#action:name:android.intent.action.MAIN+action:name:com.lge.quickcover
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:268:13-272:29
+action#com.lge.quickcover
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:269:17-60
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:269:25-58
+receiver#com.mutho.music.ui.widgets.WidgetProviderLarge
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:277:9-287:20
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:279:13-40
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:278:13-59
+receiver#com.mutho.music.ui.widgets.WidgetProviderExtraLarge
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:290:9-300:20
+	android:label
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:292:13-40
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:291:13-64
+meta-data#com.google.android.gms.car.application
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:324:9-326:58
+	android:resource
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:326:13-56
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:325:13-66
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:328:9-330:64
+	android:resource
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:330:13-62
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:329:13-77
+meta-data#com.google.android.gms.car.application.theme
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:331:9-333:50
+	android:resource
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:333:13-47
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml:332:13-72
+uses-sdk
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+MERGED from [:libraries:aesthetic] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/aesthetic/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libraries:aesthetic] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/aesthetic/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5aca024813b212a0202ac02443058223/cardview-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5aca024813b212a0202ac02443058223/cardview-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [:libraries:multisheetview] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/multisheetview/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libraries:multisheetview] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/multisheetview/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1027d60ee47923344d541db2a0283d58/design-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1027d60ee47923344d541db2a0283d58/design-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [:libraries:glidepalette] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/glidepalette/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:libraries:glidepalette] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/glidepalette/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:libraries:ccl] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/ccl/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:41
+MERGED from [:libraries:ccl] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/ccl/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d65fd93d6b3a1ddab84520f765f778b9/play-services-cast-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d65fd93d6b3a1ddab84520f765f778b9/play-services-cast-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/720756e7a108a88fe74ba717b2f947d2/mediarouter-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/720756e7a108a88fe74ba717b2f947d2/mediarouter-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ef054b3264a081e0483e18dbf65c67a5/palette-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ef054b3264a081e0483e18dbf65c67a5/palette-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/b7de8defc5cec3927a604c8e42c15606/preference-v14-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/b7de8defc5cec3927a604c8e42c15606/preference-v14-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cd2b550ed35b859413c955dd1243c84b/preference-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cd2b550ed35b859413c955dd1243c84b/preference-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [:libraries:recycler-adapter] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/recycler-adapter/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libraries:recycler-adapter] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/recycler-adapter/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/bd38700adaefd690810ba27be149d8ce/commons-0.9.6.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/bd38700adaefd690810ba27be149d8ce/commons-0.9.6.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c53331642b0210ef47c8ab3adcb57323/core-0.9.6.0/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c53331642b0210ef47c8ab3adcb57323/core-0.9.6.0/AndroidManifest.xml:8:5-11:75
+MERGED from [com.bignerdranch.android:expandablerecyclerview:3.0.0-RC1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5a455023fd351de60655e4d6ad6017aa/expandablerecyclerview-3.0.0-RC1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bignerdranch.android:expandablerecyclerview:3.0.0-RC1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5a455023fd351de60655e4d6ad6017aa/expandablerecyclerview-3.0.0-RC1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/24f446faa97bf64361b7d18edd943f64/recyclerview-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/24f446faa97bf64361b7d18edd943f64/recyclerview-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e1318bdf163463fed43f80575aefd77d/firebase-config-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e1318bdf163463fed43f80575aefd77d/firebase-config-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/55ef189068cd25b8cfddd0538cb5f663/firebase-core-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/55ef189068cd25b8cfddd0538cb5f663/firebase-core-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fe7358a15d8484badb94287e6c44d439/play-services-phenotype-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fe7358a15d8484badb94287e6c44d439/play-services-phenotype-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/df887710a0fa9cc27a506b6e3c8c099c/play-services-flags-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/df887710a0fa9cc27a506b6e3c8c099c/play-services-flags-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f1c59e31d97b1397ce403226fdf8f53e/firebase-abt-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f1c59e31d97b1397ce403226fdf8f53e/firebase-abt-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d2f6db1f29f3c73a05749439c46cc7af/firebase-iid-interop-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d2f6db1f29f3c73a05749439c46cc7af/firebase-iid-interop-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/505b999d05cbb7e791a4fd035677a341/play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/505b999d05cbb7e791a4fd035677a341/play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d11c92e8f076fd5f8e90799c684cb31b/play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d11c92e8f076fd5f8e90799c684cb31b/play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1e6da9dc8f41313fb3a64872c0ce6d94/firebase-measurement-connector-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/1e6da9dc8f41313fb3a64872c0ce6d94/firebase-measurement-connector-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cf490c641692d3ebf2ddf165479a903e/play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/cf490c641692d3ebf2ddf165479a903e/play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/17fca57fb3b7495b0a7e0c2111255078/play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/00cd3af363d27088871de18232d471fb/support-v4-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/00cd3af363d27088871de18232d471fb/support-v4-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ac6e355f5501c4e5eccd63a1738e4e42/constraint-layout-1.1.0-beta5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ac6e355f5501c4e5eccd63a1738e4e42/constraint-layout-1.1.0-beta5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.sqlbrite2:sqlbrite:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5c63eb4ebc05332c1e2834930f6d2c50/sqlbrite-2.0.0/AndroidManifest.xml:6:5-43
+MERGED from [com.squareup.sqlbrite2:sqlbrite:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5c63eb4ebc05332c1e2834930f6d2c50/sqlbrite-2.0.0/AndroidManifest.xml:6:5-43
+MERGED from [:libraries:navigation] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/navigation/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:libraries:navigation] /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/libraries/navigation/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/8ca05b3be3cb4ffec05d56473062ab36/rxbinding-appcompat-v7-2.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/8ca05b3be3cb4ffec05d56473062ab36/rxbinding-appcompat-v7-2.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/daa411081ae22b5ad585505b08b1dad4/rxbinding-2.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/daa411081ae22b5ad585505b08b1dad4/rxbinding-2.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f1dfb2f687837525b1eb6d2b2fad9a96/rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f1dfb2f687837525b1eb6d2b2fad9a96/rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [com.cantrowitz:rxbroadcast:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c617e536e64ce8572beeafb788d50c5f/rxbroadcast-2.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.cantrowitz:rxbroadcast:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c617e536e64ce8572beeafb788d50c5f/rxbroadcast-2.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.f2prateek.rx.preferences2:rx-preferences:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a0dbe5f93aeac0b5d7bc0463fb40def8/rx-preferences-2.0.0/AndroidManifest.xml:6:5-43
+MERGED from [com.f2prateek.rx.preferences2:rx-preferences:2.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a0dbe5f93aeac0b5d7bc0463fb40def8/rx-preferences-2.0.0/AndroidManifest.xml:6:5-43
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.20] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/3357890087498c243f4d9fb802e05b05/recyclerview-fastscroll-1.0.20/AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.20] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/3357890087498c243f4d9fb802e05b05/recyclerview-fastscroll-1.0.20/AndroidManifest.xml:7:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.greysonparrelli.permiso:permiso:0.3.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/56628a6d8756a89b340bd70d87638a9f/permiso-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.greysonparrelli.permiso:permiso:0.3.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/56628a6d8756a89b340bd70d87638a9f/permiso-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2a18361be693bbda08f36a452a526865/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2a18361be693bbda08f36a452a526865/butterknife-8.8.1/AndroidManifest.xml:5:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c8e9fcbfab9fbacad56ee552226d7b08/leakcanary-android-no-op-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c8e9fcbfab9fbacad56ee552226d7b08/leakcanary-android-no-op-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/152e132a7387778581fefe567300e6a5/library-1.4.2/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/152e132a7387778581fefe567300e6a5/library-1.4.2/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e73447fc3a7a9b5dd072ca9e2503d3df/appcompat-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e73447fc3a7a9b5dd072ca9e2503d3df/appcompat-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a1543bf62df71cc19cc3c0837f0ec746/transition-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a1543bf62df71cc19cc3c0837f0ec746/transition-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/88edbeaed9081bc84f776e195fa2d228/support-fragment-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/88edbeaed9081bc84f776e195fa2d228/support-fragment-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/3fec335596563ffe11d82c20f78799be/animated-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/3fec335596563ffe11d82c20f78799be/animated-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/9800cc77e04d7c71dfdc746973a1ed7a/support-core-ui-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/9800cc77e04d7c71dfdc746973a1ed7a/support-core-ui-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e9c572a462d64e1761396311b7e399f3/support-core-utils-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/e9c572a462d64e1761396311b7e399f3/support-core-utils-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5240c19f34ea8d99587db5560ca8d50e/support-media-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/5240c19f34ea8d99587db5560ca8d50e/support-media-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/afff1e7434f9c841800a31c917b3a342/support-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/afff1e7434f9c841800a31c917b3a342/support-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/57e01bf0462a809e78ea23188f314d02/support-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/57e01bf0462a809e78ea23188f314d02/support-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/49fb3586f9b3e75f5a59ff8c037ebc3b/crashlytics-core-2.6.3/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/6552b84f794791479b4f8edf87583e8f/beta-1.2.9/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/32958bcbd868d7c9ee03f69f234a0d03/answers-1.4.2/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/d684a38fb171f5f5d92515330d363132/fabric-1.4.3/AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fb9664835f57a6dcdf3a23d1b86a12d2/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/fb9664835f57a6dcdf3a23d1b86a12d2/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/015d2d0b352b77dd34b90ef644264b23/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/015d2d0b352b77dd34b90ef644264b23/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f8046654e009879174d6a6bcf29460a5/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f8046654e009879174d6a6bcf29460a5/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ace82595bb551edc9fec37b31468cb2a/play-services-measurement-base-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ace82595bb551edc9fec37b31468cb2a/play-services-measurement-base-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c30accf7eb25969cdf6f2e4808743353/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c30accf7eb25969cdf6f2e4808743353/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/c53331642b0210ef47c8ab3adcb57323/core-0.9.6.0/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml:6:5-7:54
+	android:name
+		ADDED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml:7:9-51
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/10b04ce0f58a79b85c02f097ca419005/firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/4ef821a92cad4c42a9bece45eb92d966/firebase-analytics-impl-16.1.1/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2e20a31036189028aaa2a5f1c5a6c6a8/firebase-analytics-16.0.1/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:29:9-63
+permission#com.mutho.music.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:32:22-76
+uses-permission#com.mutho.music.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.mutho.music
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:48:27-58
+category#com.mutho.music
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/169700b38a912f3ac7e39189dfcecbc9/firebase-iid-16.0.0/AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/f5750e935a38d800566987a6ac2aa25c/play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/999b5808b8dbf5187e0c97df08452aec/firebase-common-16.0.0/AndroidManifest.xml:10:13-77
+activity#com.mlsdev.rximagepicker.HiddenActivity
+ADDED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:14:9-17:75
+	android:launchMode
+		ADDED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:16:13-43
+	android:theme
+		ADDED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from [com.github.timusus:RxImagePicker:permission-check-fix-SNAPSHOT] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/2ed351e6735ba04036682f51414235ca/RxImagePicker-permission-check-fix-SNAPSHOT/AndroidManifest.xml:15:13-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/muthopaylimited/Downloads/MUTHOPAYGROUP/Cloud/muthomusic/musicshuffle/musicshuffle/app/src/free/AndroidManifest.xml:2:1-9:12 reason: com.mlsdev.rximagepicker requested WRITE_EXTERNAL_STORAGE
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/ad9f64eaffa54599b448f281d74f86aa/okhttp3-integration-1.4.0/AndroidManifest.xml:13:13-84
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] /Users/muthopaylimited/.gradle/caches/transforms-2/files-2.1/a4cc56a22e2fc7e46c4068a1997f9f90/crashlytics-2.9.4/AndroidManifest.xml:13:13-75
